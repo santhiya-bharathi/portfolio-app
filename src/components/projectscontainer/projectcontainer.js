@@ -13,43 +13,43 @@ const ProjectContainer = () => {
     <div className='div-flex'>
 
     <div className='container'>
-      <h2 className='project-name'>Blogger</h2>
+      <h2 className='project-name'>Stackoverflow</h2>
       <br />
         <div className="full-det">
       
-         <img className="user-pic" src= 'https://www.protemplateslab.com/wp-content/uploads/2018/12/Maggner-Blogger-Template.jpg' alt='website'/>
+         <img className="user-pic" src= 'https://miro.medium.com/max/775/1*yTdreaXaKNbiVM5-lgj-0w.png' alt='website'/>
         
       
        <div className='details details--blur'>
            
-        <p className='details-text'>In Blog application user can read, edit and delete post and like other users post with authentication</p>
+        <p className='details-text'>In this application user can view answers and edit answer and can ask questions.</p>
       
         <p className='details-text'>Technologies Used: React, node.js, mongoDB, Material UI</p>
         <div className='div-button'>
       
       <div>
-        <a className='frontend-link' target="_blank" rel="noreferrer" href='https://github.com/santhiya-bharathi/blogger-client'>
+        <a className='frontend-link' target="_blank" rel="noreferrer" href='https://github.com/santhiya-bharathi/stackoverflow-app'>
           <div className='button-link'>
             <GitHubIcon />
-           <a className='frontend-link' target="_blank" rel="noreferrer" href='https://github.com/santhiya-bharathi/blogger-client'>Frontend</a>
+           <a className='frontend-link' target="_blank" rel="noreferrer" href='https://github.com/santhiya-bharathi/stackoverflow-app'>Frontend</a>
           </div>
           </a>
           </div>
 
           <div>
-          <a className='frontend-link' target="_blank" rel="noreferrer" href='https://github.com/santhiya-bharathi/blogger-server'>
+          <a className='frontend-link' target="_blank" rel="noreferrer" href='https://github.com/santhiya-bharathi/stackoverflow-node'>
           <div className='button-link'>
           <GitHubIcon />
-          <a className='frontend-link' target="_blank" rel="noreferrer" href='https://github.com/santhiya-bharathi/blogger-server'>Backend</a>
+          <a className='frontend-link' target="_blank" rel="noreferrer" href='https://github.com/santhiya-bharathi/stackoverflow-node'>Backend</a>
           </div>
           </a>
           </div>
 
           <div>
-          <a className='frontend-link' target="_blank" rel="noreferrer" href='https://explore-blogger.netlify.app'>
+          <a className='frontend-link' target="_blank" rel="noreferrer" href='https://stack-over-flow-app.netlify.app'>
           <div className='button-link'>
             <LinkIcon />
-          <a className='frontend-link' target="_blank" rel="noreferrer" href='https://explore-blogger.netlify.app'>Demolink</a>
+          <a className='frontend-link' target="_blank" rel="noreferrer" href='https://stack-over-flow-app.netlify.app'>Demolink</a>
           </div>
           </a>
           </div>
